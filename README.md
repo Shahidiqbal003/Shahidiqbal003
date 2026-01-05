@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shahid Iqbal 👋
+Full Stack Website Developer (HTML, CSS, JS, PHP, Laravel, WordPress, Shopify)
 
-<!--
-**Shahidiqbal003/Shahidiqbal003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 5+ years of experience  
+🛠️ Building high-performance websites & e-commerce stores  
+📌 Specialized in WordPress & Shopify development  
+🌐 Portfolio: https://shahidqurashi.com  
+💼 Upwork: (your profile link)
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- HTML, CSS, JavaScript, jQuery
+- PHP, Laravel, CodeIgniter
+- WordPress, WooCommerce, Elementor
+- Shopify Store Development
+- Git, GitHub, cPanel, WHM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+(Stats images yahan add hogi)
+
+## 📂 Featured Projects
+- Laravel CRM System
+- WordPress Agency Theme
+- Shopify Store Starter Template
+- Property Listing Website
