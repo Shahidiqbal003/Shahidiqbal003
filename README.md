@@ -96,7 +96,8 @@ Coursework: Data Structures, Algorithms, Operating Systems, Security Engineering
 ## 📫 Connect With Me
 - 📍 Multan, Pakistan  
 - 📧 Email: **shahaidofficail@gmail.com**  
-- 🔗 LinkedIn: *https://www.linkedin.com/in/shahidiqbal9636/*  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/shahidiqbal9636/*
+- Portfolio: *https://shahidqurashi.com/*
 
 ---
 
